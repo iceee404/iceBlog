@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7008a349-86b2-4038-9045-33a07f446086" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\apache-maven-3.8.1\maven-repository" />
+        <option name="mavenHome" value="C:\apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25jQKIJFsgi9WGInzGffj8YNLRS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/iceee/code/ideaProject/iceBlog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\idea\iceBlog\iceBlog-framework\src\main\java\com\ice\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\idea\iceBlog\iceBlog-framework\src\main\java\com\ice\utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ice.service.impl" />
+      <recent name="com.ice.domain.vo" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="logout" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.IceBlogApplication">
+    <configuration name="OSSTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iceBlog-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ice" />
+      <option name="MAIN_CLASS_NAME" value="com.ice.OSSTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ice.handler.myabtisplus in iceBlog-framework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iceBlog-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ice.handler.myabtisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ice.handler.myabtisplus" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IceBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="iceBlog-blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ice.IceBlogApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.IceBlogApplication" />
+        <item itemvalue="JUnit.OSSTest" />
+        <item itemvalue="JUnit.com.ice.handler.myabtisplus in iceBlog-framework" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7008a349-86b2-4038-9045-33a07f446086" name="Default Changelist" comment="" />
+      <created>1646037952313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646037952313</updated>
+      <workItem from="1646037954442" duration="7188000" />
+      <workItem from="1646134611167" duration="8424000" />
+      <workItem from="1646209298953" duration="6005000" />
+      <workItem from="1646229955072" duration="4650000" />
+      <workItem from="1646830419398" duration="3055000" />
+      <workItem from="1646965722671" duration="5655000" />
+      <workItem from="1646995983951" duration="5000" />
+      <workItem from="1646996337685" duration="20000" />
+      <workItem from="1647000649050" duration="153000" />
+      <workItem from="1647000876938" duration="244000" />
+      <workItem from="1647165896114" duration="851000" />
+      <workItem from="1647168594955" duration="1879000" />
+      <workItem from="1647408602414" duration="1889000" />
+      <workItem from="1647497817293" duration="10648000" />
+      <workItem from="1647671680740" duration="1028000" />
+      <workItem from="1647756429002" duration="7784000" />
+      <workItem from="1647916564922" duration="1038000" />
+      <workItem from="1648049430959" duration="1626000" />
+      <workItem from="1648101553299" duration="615000" />
+      <workItem from="1648285235628" duration="470000" />
+      <workItem from="1648365321205" duration="24000" />
+      <workItem from="1648643438634" duration="923000" />
+      <workItem from="1651150519490" duration="1311000" />
+      <workItem from="1652072134536" duration="15000" />
+      <workItem from="1654517622422" duration="910000" />
+      <workItem from="1655449796557" duration="1585000" />
+      <workItem from="1656579612767" duration="2813000" />
+      <workItem from="1656988749550" duration="2811000" />
+      <workItem from="1657088418543" duration="656000" />
+      <workItem from="1657092881929" duration="1998000" />
+      <workItem from="1657620217049" duration="344000" />
+      <workItem from="1658289570993" duration="1175000" />
+      <workItem from="1658731645117" duration="1395000" />
+      <workItem from="1658829414468" duration="1986000" />
+      <workItem from="1658887517740" duration="1645000" />
+      <workItem from="1659537461167" duration="92000" />
+      <workItem from="1668606989263" duration="150000" />
+      <workItem from="1668910788561" duration="1119000" />
+      <workItem from="1671024754401" duration="256000" />
+      <workItem from="1678166972754" duration="455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
